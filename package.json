@@ -1,0 +1,19 @@
+{
+  "name": "ses-dashboard",
+  "version": "1.0.0",
+  "description": "A web app for visualising SES traffic statistics",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cb-researchbods/ses-dashboard.git"
+  },
+  "author": "Connor",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cb-researchbods/ses-dashboard/issues"
+  },
+  "homepage": "https://github.com/cb-researchbods/ses-dashboard#readme"
+}
